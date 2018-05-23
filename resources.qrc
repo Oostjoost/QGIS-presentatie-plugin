@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/plugins/presentatie" >
+        <file>icon.png</file>
+        <file>logo_qgis.png</file>
+    </qresource>
+</RCC>
